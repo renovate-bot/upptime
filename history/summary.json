@@ -59,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/yacht.w-ss.io",
     "slug": "yacht",
     "status": "down",
-    "uptime": "0.17%",
-    "uptimeDay": "0.17%",
-    "uptimeWeek": "0.17%",
-    "uptimeMonth": "0.17%",
-    "uptimeYear": "0.17%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 263,
     "timeDay": 263,
     "timeWeek": 263,
     "timeMonth": 263,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2021-03-07": 11
+      "2021-03-07": 95
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://favicons.githubusercontent.com/proxy.w-ss.io",
     "slug": "head",
     "status": "down",
-    "uptime": "0.19%",
-    "uptimeDay": "0.19%",
-    "uptimeWeek": "0.19%",
-    "uptimeMonth": "0.19%",
-    "uptimeYear": "0.19%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-03-07": 11
+      "2021-03-07": 95
     }
   },
   {
@@ -98,19 +98,19 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "93.38%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.97%",
+    "time": 412,
+    "timeDay": 412,
+    "timeWeek": 412,
+    "timeMonth": 412,
+    "timeYear": 412,
     "dailyMinutesDown": {
-      "2021-03-07": 11
+      "2021-03-07": 95
     }
   },
   {
