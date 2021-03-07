@@ -6,15 +6,15 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: Jellyfin
     url: https://jellyfin.w-ss.io
-  - name: Sub
+  - name: Subspace
     url: https://subspace.w-ss.io
-  - name: Port
+  - name: Docker
     url: https://portainer.w-ss.io
   - name: Yacht
     url: https://yacht.w-ss.io
   - name: HEAD
     method: HEAD
-    url: https://proxy.w-ss.io
+    url: https://w-ss.io
   - name: Secret Site
     url: $SECRET_SITE
   - name: TCP ping
