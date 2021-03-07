@@ -1,20 +1,20 @@
 # Change these first
-owner: upptime # Your GitHub username
+owner: ss-o # Your GitHub username
 repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
+  - name: SSwire
+    url: https://sswire.duckdns.org
+  - name: Sub
+    url: https://subspace.w-ss.io
+  - name: Port
+    url: https://portainer.w-ss.io
+  - name: Yacht
+    url: https://yacht.w-ss.io
+  - name: HEAD
     method: HEAD
-    url: https://www.google.com
+    url: https://jellyfin.w-ss.io
   - name: Secret Site
     url: $SECRET_SITE
   - name: TCP ping
@@ -22,7 +22,7 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: sall.w-ss.io
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
