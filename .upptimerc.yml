@@ -4,8 +4,8 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: SSwire
-    url: https://sswire.duckdns.org
+  - name: Jellyfin
+    url: https://jellyfin.w-ss.io
   - name: Sub
     url: https://subspace.w-ss.io
   - name: Port
@@ -14,7 +14,7 @@ sites:
     url: https://yacht.w-ss.io
   - name: HEAD
     method: HEAD
-    url: https://jellyfin.w-ss.io
+    url: https://proxy.w-ss.io
   - name: Secret Site
     url: $SECRET_SITE
   - name: TCP ping
