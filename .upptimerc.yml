@@ -14,7 +14,7 @@ sites:
     url: https://yacht.w-ss.io
   - name: HEAD
     method: HEAD
-    url: https://w-ss.io
+    url: https://do.w-ss.io
   - name: Secret Site
     url: $SECRET_SITE
   - name: TCP ping
