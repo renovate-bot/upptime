@@ -1,7 +1,7 @@
 url: https://portainer.w-ss.io
-status: down
-code: 502
-responseTime: 1297
-lastUpdated: 2021-03-11T04:29:57.539Z
+status: up
+code: 200
+responseTime: 632
+lastUpdated: 2021-03-11T04:52:54.207Z
 startTime: Sun Mar 07 2021 19:51:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
