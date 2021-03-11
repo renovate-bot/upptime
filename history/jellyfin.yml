@@ -1,7 +1,7 @@
-url: https://jellyfin.w-ss.io
+url: $SECRET_SITE_9
 status: up
 code: 200
-responseTime: 446
-lastUpdated: 2021-03-11T17:44:48.882Z
+responseTime: 449
+lastUpdated: 2021-03-11T21:18:30.711Z
 startTime: Sun Mar 07 2021 03:49:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
