@@ -1,7 +1,7 @@
 url: https://jellyfin.w-ss.io
-status: down
-code: 502
-responseTime: 1268
-lastUpdated: 2021-03-11T04:29:52.354Z
+status: up
+code: 200
+responseTime: 663
+lastUpdated: 2021-03-11T04:52:51.710Z
 startTime: Sun Mar 07 2021 03:49:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
