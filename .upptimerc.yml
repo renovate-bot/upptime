@@ -14,7 +14,7 @@ sites:
     url: $SECRET_SITE_4
   - name: Yacht
     url: $SECRET_SITE_5
-  - name: Yacht
+  - name: Ghost
     url: $SECRET_SITE_6
   - name: Heimdall
     url: $SECRET_SITE_7
