@@ -4,19 +4,29 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Jellyfin
-    url: https://jellyfin.w-ss.io
+  - name: Code
+    url: $SECRET_SITE_1
   - name: Subspace
-    url: https://subspace.w-ss.io
-  - name: Docker
-    url: https://portainer.w-ss.io
+    url: $SECRET_SITE_2
+  - name: Files
+    url: $SECRET_SITE_3
+  - name: Portainer
+    url: $SECRET_SITE_4
   - name: Yacht
-    url: https://yacht.w-ss.io
+    url: $SECRET_SITE_5
+  - name: Yacht
+    url: $SECRET_SITE_6
+  - name: Heimdall
+    url: $SECRET_SITE_7
+  - name: Home
+    url: $SECRET_SITE_8
+  - name: Jellyfin
+    url: $SECRET_SITE_9
+  - name: Navidrome
+    url: $SECRET_SITE_10
   - name: HEAD
     method: HEAD
-    url: https://do.w-ss.io
-  - name: Secret Site
-    url: $SECRET_SITE
+    url: https://up.w-ss.io
   - name: TCP ping
     url: 1.1.1.1
 
