@@ -1,12 +1,9 @@
-# Change these first
-owner: ss-o # Your GitHub username
-repo: upptime # Your GitHub repository name
-
-# Add your sites here
+owner: ss-o
+repo: upptime
 sites:
   - name: Code
     url: $SECRET_SITE_1
-  - name: Subspace
+  - name: Digital-link
     url: $SECRET_SITE_2
   - name: Files
     url: $SECRET_SITE_3
@@ -24,15 +21,15 @@ sites:
     url: $SECRET_SITE_9
   - name: Navidrome
     url: $SECRET_SITE_10
+  - name: Do
+    url: $SECRET_SITE_11    
   - name: HEAD
     method: HEAD
-    url: https://up.w-ss.io
+    url: https://get-digital.link
   - name: TCP ping
     url: 1.1.1.1
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  # Uncomment the following line if you don't have a custom domain and add your repo name
   cname: up.w-ss.io
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
@@ -43,6 +40,4 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
