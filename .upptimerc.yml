@@ -1,31 +1,17 @@
 owner: ss-o
 repo: upptime
 sites:
-  - name: Code
+  - name: Play
     url: $SECRET_SITE_1
-  - name: Digital-link
+  - name: Music
     url: $SECRET_SITE_2
-  - name: Files
+  - name: Code
     url: $SECRET_SITE_3
-  - name: Portainer
+  - name: Digital-Link
     url: $SECRET_SITE_4
-  - name: Yacht
-    url: $SECRET_SITE_5
-  - name: Ghost
-    url: $SECRET_SITE_6
-  - name: Heimdall
-    url: $SECRET_SITE_7
-  - name: Home
-    url: $SECRET_SITE_8
-  - name: Jellyfin
-    url: $SECRET_SITE_9
-  - name: Navidrome
-    url: $SECRET_SITE_10
-  - name: Do
-    url: $SECRET_SITE_11    
   - name: HEAD
     method: HEAD
-    url: https://get-digital.link
+    url: $SECRET_SITE_5
   - name: TCP ping
     url: 1.1.1.1
 
