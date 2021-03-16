@@ -96,7 +96,7 @@
     "url": "$SECRET_SITE_6",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ghost",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
