@@ -1,17 +1,11 @@
 owner: ss-o
 repo: upptime
 sites:
-  - name: Play
+  - name: Global
     url: $SECRET_SITE_1
-  - name: Music
+  - name: Media
     url: $SECRET_SITE_2
-  - name: Code
-    url: $SECRET_SITE_3
-  - name: Digital-Link
-    url: $SECRET_SITE_4
-  - name: HEAD
-    method: HEAD
-    url: $SECRET_SITE_5
+  - name: Check
   - name: TCP ping
     url: 1.1.1.1
 
