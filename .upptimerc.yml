@@ -6,6 +6,7 @@ sites:
   - name: Media
     url: $SECRET_SITE_2
   - name: Check
+    url: $SECRET_SITE_3
   - name: TCP ping
     url: 1.1.1.1
 
