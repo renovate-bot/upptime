@@ -3,8 +3,10 @@ repo: upptime
 sites:
   - name: MANAGER_NODE
     url: $MANAGER_NODE
-  - name: DIGITAL_LINK
-    url: $DIGITAL_LINK
+  - name: DIGITAL_NODE
+    url: $DIGITAL_NODE
+  - name: JELLYFIN
+    url: $jELLYFIN
   - name: DPI
     url: $DPI
   - name: TCP ping
