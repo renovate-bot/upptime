@@ -1,12 +1,12 @@
 owner: ss-o
 repo: upptime
 sites:
-  - name: Global
-    url: $SECRET_SITE_1
-  - name: Media
-    url: $SECRET_SITE_2
-  - name: Check
-    url: $SECRET_SITE_3
+  - name: MANAGER_NODE
+    url: $MANAGER_NODE
+  - name: DIGITAL_LINK
+    url: $DIGITAL_LINK
+  - name: DPI
+    url: $DPI
   - name: TCP ping
     url: 1.1.1.1
 
