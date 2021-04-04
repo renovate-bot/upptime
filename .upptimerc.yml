@@ -1,12 +1,12 @@
 owner: ss-o
 repo: upptime
 sites:
-  - name: MANAGER_NODE
+  - name: MANAGER
     url: $MANAGER_NODE
-  - name: DIGITAL_NODE
+  - name: DIGITAL_LINK
     url: $DIGITAL_NODE
-  - name: JELLYFIN
-    url: $jELLYFIN
+  - name: DIGITALS SERVER
+    url: $DIGITALS
   - name: DPI
     url: $DPI
   - name: TCP ping
