@@ -31,7 +31,7 @@
     "time": 523,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 523,
+    "timeMonth": 569,
     "timeYear": 523,
     "dailyMinutesDown": {}
   },
@@ -40,17 +40,17 @@
     "url": "$DIGITALS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "digitals-server",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 490,
-    "timeDay": 771,
-    "timeWeek": 538,
-    "timeMonth": 490,
-    "timeYear": 490,
+    "time": 520,
+    "timeDay": 826,
+    "timeWeek": 561,
+    "timeMonth": 520,
+    "timeYear": 520,
     "dailyMinutesDown": {}
   },
   {
@@ -85,7 +85,7 @@
     "time": 54,
     "timeDay": 66,
     "timeWeek": 69,
-    "timeMonth": 57,
+    "timeMonth": 58,
     "timeYear": 54,
     "dailyMinutesDown": {}
   }
