@@ -1,7 +1,7 @@
 url: $DIGITALS
-status: up
-code: 200
-responseTime: 779
-lastUpdated: 2021-04-19T23:03:01.698Z
+status: down
+code: 521
+responseTime: 207
+lastUpdated: 2021-04-19T23:41:11.239Z
 startTime: Sun Apr 04 2021 15:55:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
