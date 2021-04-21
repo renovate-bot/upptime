@@ -1,14 +1,14 @@
 owner: ss-o
 repo: upptime
 sites:
-  - name: MANAGER
-    url: $MANAGER_NODE
-  - name: DIGITAL_LINK
-    url: $DIGITAL_NODE
-  - name: DIGITALS SERVER
-    url: $DIGITALS
-  - name: DPI
-    url: $DPI
+  - name: Router
+    url: https://router.digitally.ink
+  - name: Swarmpit
+    url: https://swarmpit.digitally.ink
+  - name: Portainer
+    url: https://portainer.digitally.ink
+  - name: Registry
+    url: https://registry.digitally.ink
   - name: TCP ping
     url: 1.1.1.1
 
