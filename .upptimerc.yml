@@ -2,13 +2,13 @@ owner: ss-o
 repo: upptime
 sites:
   - name: Router
-    url: https://router.digitally.ink
-  - name: Swarmpit
-    url: https://swarmpit.digitally.ink
-  - name: Portainer
-    url: https://portainer.digitally.ink
-  - name: Registry
-    url: https://registry.digitally.ink
+    url: https://core.w-ss.io
+  - name: Dev
+    url: https://digitalclouds.dev
+  - name: DC Link
+    url: https://digitally.ink
+  - name: Proxy
+    url: https://digitals.pw
   - name: TCP ping
     url: 1.1.1.1
 
