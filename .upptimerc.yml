@@ -5,7 +5,7 @@ sites:
     url: 157.245.29.132
   - name: DEV W-SS
     url: 46.101.65.57
-  - name: W-SS HTTPS
+#  - name: W-SS HTTPS
 #    url: https://w-ss.io
 #  - name: DigitalClouds HTTPS
 #    url: https://digitalclouds.dev
