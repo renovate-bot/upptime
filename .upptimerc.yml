@@ -2,8 +2,10 @@ owner: ss-o
 repo: upptime
 sites:
   - name: DNS DEV
-    url: dns://digitalclouds.dev
-#  - name: W-SS HTTPS
+    url: 157.245.29.132
+  - name: DEV W-SS
+    url: 46.101.65.57
+  - name: W-SS HTTPS
 #    url: https://w-ss.io
 #  - name: DigitalClouds HTTPS
 #    url: https://digitalclouds.dev
