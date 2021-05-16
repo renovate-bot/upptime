@@ -1,14 +1,16 @@
 owner: ss-o
 repo: upptime
 sites:
-  - name: Router
-    url: https://core.w-ss.io
-  - name: Dev
-    url: https://digitalclouds.dev
-  - name: DC Link
-    url: https://digitally.ink
-  - name: Proxy
-    url: https://digitals.pw
+  - name: DNS DEV
+    url: dns://digitalclouds.dev
+#  - name: W-SS HTTPS
+#    url: https://w-ss.io
+#  - name: DigitalClouds HTTPS
+#    url: https://digitalclouds.dev
+#  - name: Digitally HTTPS
+#    url: https://digitally.ink
+#  - name: Digitals HTTPS
+#    url: https://digitals.pw
   - name: TCP ping
     url: 1.1.1.1
 
