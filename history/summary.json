@@ -1,8 +1,8 @@
 [
   {
     "name": "DNS DEV",
-    "url": "dns://digitalclouds.dev",
-    "icon": "https://favicons.githubusercontent.com/digitalclouds.dev",
+    "url": "157.245.29.132",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dns-dev",
     "status": "down",
     "uptime": "100.00%",
@@ -15,6 +15,24 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "DEV W-SS",
+    "url": "46.101.65.57",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "dev-w-ss",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 267,
+    "timeDay": 267,
+    "timeWeek": 267,
+    "timeMonth": 267,
+    "timeYear": 267,
     "dailyMinutesDown": {}
   },
   {
