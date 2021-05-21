@@ -1,30 +1,33 @@
 owner: ss-o
 repo: upptime
 sites:
-  - name: DNS DEV
-    url: 157.245.29.132
-  - name: DEV W-SS
-    url: 46.101.65.57
-#  - name: W-SS HTTPS
-#    url: https://w-ss.io
-#  - name: DigitalClouds HTTPS
-#    url: https://digitalclouds.dev
-#  - name: Digitally HTTPS
-#    url: https://digitally.ink
-#  - name: Digitals HTTPS
-#    url: https://digitals.pw
+  - name: DNS TLS
+    url: 178.62.93.38:853
+  - name: DNS DoH
+    url: 178.62.93.38:443
+  - name: W-SS HTTPS
+    url: https://w-ss.io
+  - name: DigitalClouds HTTPS
+    url: https://digitalclouds.dev
+  - name: Digitally HTTPS
+    url: https://digitally.ink
+  - name: Digitals HTTPS
+    url: https://digitals.pw
   - name: TCP ping
     url: 1.1.1.1
 
 status-website:
+  theme: dark
   cname: up.w-ss.io
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://github.com/ss-o/ss-o.github.io/raw/master/static/img/ninja.png
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Domain **w-ss.io** uptime.
+  introMessage: Uptime status page ****.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+#     - title: Contact
+#      href: https://github.com/$OWNER/$REP
 # See https://upptime.js.org/docs/configuration
