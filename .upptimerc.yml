@@ -1,17 +1,13 @@
 owner: ss-o
 repo: upptime
 sites:
-  - name: DNS TLS
-    url: 178.62.93.38:853
-  - name: DNS DoH
-    url: 178.62.93.38:443
-  - name: W-SS HTTPS
+  - name: W-SS 
     url: https://w-ss.io
-  - name: DigitalClouds HTTPS
+  - name: DigitalClouds 
     url: https://digitalclouds.dev
-  - name: Digitally HTTPS
-    url: https://digitally.ink
-  - name: Digitals HTTPS
+#  - name: Digitally 
+#    url: https://digitally.ink
+  - name: Digitals 
     url: https://digitals.pw
   - name: TCP ping
     url: 1.1.1.1
@@ -22,7 +18,7 @@ status-website:
   logoUrl: https://github.com/ss-o/ss-o.github.io/raw/master/static/img/ninja.png
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Uptime status page ****.
+  introMessage: Uptime status page.
   navbar:
     - title: Status
       href: /
