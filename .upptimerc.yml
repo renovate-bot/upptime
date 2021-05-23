@@ -9,7 +9,7 @@ sites:
 #    url: https://digitally.ink
   - name: Jellyfin
     url: https://jellyfin.w-ss.io
-  - name: Data | Docker container
+  - name: Data container
     url: https://data.w-ss.io
   - name: TCP ping
     url: 1.1.1.1
