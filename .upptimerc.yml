@@ -1,12 +1,6 @@
 owner: ss-o
 repo: upptime
 sites:
-#  - name: W-SS 
-#    url: https://w-ss.io
-#  - name: DigitalClouds 
-#    url: https://digitalclouds.dev
-#  - name: Digitally 
-#    url: https://digitally.ink
   - name: Jellyfin
     url: https://jellyfin.w-ss.io
   - name: Data container
