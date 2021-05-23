@@ -1,22 +1,24 @@
 owner: ss-o
 repo: upptime
 sites:
-  - name: W-SS 
-    url: https://w-ss.io
-  - name: DigitalClouds 
-    url: https://digitalclouds.dev
+#  - name: W-SS 
+#    url: https://w-ss.io
+#  - name: DigitalClouds 
+#    url: https://digitalclouds.dev
 #  - name: Digitally 
 #    url: https://digitally.ink
-  - name: Digitals 
-    url: https://digitals.pw
+  - name: Jellyfin
+    url: https://jellyfin.w-ss.io
+  - name: Data | Docker container
+    url: https://data.w-ss.io
   - name: TCP ping
     url: 1.1.1.1
 
 status-website:
   theme: dark
   cname: up.w-ss.io
-  logoUrl: https://github.com/ss-o/ss-o.github.io/raw/master/static/img/ninja.png
-  name: Upptime
+#  logoUrl: https://github.com/ss-o/ss-o.github.io/raw/master/static/img/ninja.png
+  name: Digital Clouds | Service uptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: Uptime status page.
   navbar:
