@@ -2,7 +2,7 @@ owner: ss-o
 repo: upptime
 sites:
   - name: Jellyfin
-    url: ghost.digitals.pw
+    url: jellyfin.digitals.pw
   - name: Digital Ghost Blog
     url: ghost.digitalclouds.dev
 
