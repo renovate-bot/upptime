@@ -19,20 +19,20 @@
   },
   {
     "name": "Digital Ghost Blog",
-    "url": "ghost.digitalclouds.dev",
+    "url": "go.digitalclouds.dev",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "digital-ghost-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 325,
-    "timeDay": 256,
-    "timeWeek": 325,
-    "timeMonth": 325,
-    "timeYear": 325,
+    "time": 343,
+    "timeDay": 417,
+    "timeWeek": 343,
+    "timeMonth": 343,
+    "timeYear": 343,
     "dailyMinutesDown": {}
   }
 ]
