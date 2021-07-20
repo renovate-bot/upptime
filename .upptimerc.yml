@@ -4,7 +4,7 @@ sites:
   - name: Jellyfin
     url: jellyfin.digitals.pw
   - name: Digital Ghost Blog
-    url: ghost.digitalclouds.dev
+    url: go.digitalclouds.dev
 
 status-website:
   theme: dark
