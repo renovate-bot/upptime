@@ -4,18 +4,20 @@
     "url": "jellyfin.digitals.pw",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 989,
-    "timeDay": 1451,
-    "timeWeek": 1659,
-    "timeMonth": 1659,
-    "timeYear": 989,
-    "dailyMinutesDown": {}
+    "time": 984,
+    "timeDay": 1337,
+    "timeWeek": 1606,
+    "timeMonth": 1606,
+    "timeYear": 984,
+    "dailyMinutesDown": {
+      "2021-07-22": 0
+    }
   },
   {
     "name": "Digital Ghost Blog",
