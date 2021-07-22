@@ -1,7 +1,7 @@
 url: jellyfin.digitals.pw
-status: down
-code: 502
-responseTime: 768
-lastUpdated: 2021-07-22T20:59:48.920Z
+status: up
+code: 200
+responseTime: 873
+lastUpdated: 2021-07-22T21:47:03.027Z
 startTime: Sun Jul 18 2021 01:42:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
