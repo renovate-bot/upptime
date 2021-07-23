@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "jellyfin",
     "status": "up",
-    "uptime": "82.13%",
+    "uptime": "82.03%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "82.13%",
-    "uptimeMonth": "82.13%",
-    "uptimeYear": "82.13%",
+    "uptimeWeek": "82.03%",
+    "uptimeMonth": "82.03%",
+    "uptimeYear": "82.03%",
     "time": 982,
     "timeDay": 1016,
     "timeWeek": 1537,
     "timeMonth": 1537,
     "timeYear": 982,
     "dailyMinutesDown": {
-      "2021-07-23": 1325,
+      "2021-07-23": 1336,
       "2021-07-22": 180
     }
   },
@@ -25,19 +25,19 @@
     "url": "go.digitalclouds.dev",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "digital-ghost-blog",
-    "status": "down",
-    "uptime": "87.17%",
-    "uptimeDay": "24.98%",
-    "uptimeWeek": "87.17%",
-    "uptimeMonth": "87.17%",
-    "uptimeYear": "87.17%",
-    "time": 487,
-    "timeDay": 542,
-    "timeWeek": 487,
-    "timeMonth": 487,
-    "timeYear": 487,
+    "status": "up",
+    "uptime": "87.06%",
+    "uptimeDay": "24.25%",
+    "uptimeWeek": "87.06%",
+    "uptimeMonth": "87.06%",
+    "uptimeYear": "87.06%",
+    "time": 486,
+    "timeDay": 537,
+    "timeWeek": 486,
+    "timeMonth": 486,
+    "timeYear": 486,
     "dailyMinutesDown": {
-      "2021-07-23": 1080
+      "2021-07-23": 1091
     }
   }
 ]
