@@ -1,7 +1,7 @@
 url: go.digitalclouds.dev
-status: up
-code: 200
-responseTime: 222
-lastUpdated: 2021-07-22T23:02:03.635Z
+status: down
+code: 521
+responseTime: 3265
+lastUpdated: 2021-07-23T04:04:48.748Z
 startTime: Sun Jul 18 2021 01:42:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
