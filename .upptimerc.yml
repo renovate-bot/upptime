@@ -1,9 +1,6 @@
 owner: ss-o
 repo: upptime
 sites:
-  - name: Jellyfin
-    url: jellyfin.digitals.pw
-    maxResponseTime: 60000
   - name: Digital Ghost Blog
     url: go.digitalclouds.dev
 
